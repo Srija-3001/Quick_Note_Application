@@ -36,7 +36,6 @@ A simple full-stack web application where users can write and save notes. Notes 
 * app.py
 * templates/index.html
 * static/style.css
-* notes.db
 
 ## Author
 
